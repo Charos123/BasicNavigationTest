@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9598f2a8-b0a7-4b4f-8646-5ea55b77cc2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/AmazonTitle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicNavigationTests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TitleVerification3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TitleVerification3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TitleVerificationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/tests/TitleVerificationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,15 +27,15 @@
   <component name="ProjectId" id="1Yx6Hb4iXGkA63QA2fKdQVNwpJv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TitleVerification2">
-    <configuration name="TestCaseNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.TestCaseNavigation" />
+  <component name="RunManager" selected="Application.WikipediaUrl">
+    <configuration name="AmazonTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.AmazonTitle" />
       <module name="BasicNavigationTests" />
       <extension name="coverage">
         <pattern>
@@ -56,6 +60,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TitleVerification3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.TitleVerification3" />
+      <module name="BasicNavigationTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TitleVerificationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.TitleVerificationTests" />
       <module name="BasicNavigationTests" />
@@ -69,25 +86,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WikipediaUrl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.WikipediaUrl" />
+      <module name="BasicNavigationTests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WikipediaUrl" />
+        <item itemvalue="Application.AmazonTitle" />
+        <item itemvalue="Application.TitleVerification3" />
         <item itemvalue="Application.TitleVerification2" />
         <item itemvalue="Application.TitleVerificationTests" />
-        <item itemvalue="Application.TestCaseNavigation" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -112,6 +132,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="439" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586753634203">
@@ -123,42 +144,62 @@
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1586755383485" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1586755421719" />
-    <state width="827" height="244" key="GridCell.Tab.0.bottom" timestamp="1583957247310">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="1398" height="306" key="GridCell.Tab.0.bottom" timestamp="1587575643480">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583938764178" />
+    <state width="1398" height="306" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587575643480" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587528590466" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1587528735900" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1587529710873" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587533705805" />
     <state width="827" height="244" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583956041929" />
     <state width="827" height="244" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1583956152773" />
-    <state width="827" height="244" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1583957247310" />
-    <state width="827" height="244" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1583955453550" />
-    <state width="827" height="244" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1583955492690" />
-    <state width="827" height="244" key="GridCell.Tab.0.center" timestamp="1583957247309">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1587533093922" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1587533221371" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1587533303967" />
+    <state width="783" height="277" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1587533645474" />
+    <state width="1398" height="306" key="GridCell.Tab.0.center" timestamp="1587575643479">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583938764177" />
+    <state width="1398" height="306" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587575643479" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587528590465" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1587528735899" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1587529710872" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587533705803" />
     <state width="827" height="244" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1583956041928" />
     <state width="827" height="244" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1583956152772" />
-    <state width="827" height="244" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1583957247309" />
-    <state width="827" height="244" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1583955453549" />
-    <state width="827" height="244" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1583955492689" />
-    <state width="827" height="244" key="GridCell.Tab.0.left" timestamp="1583957247308">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1587533093922" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1587533221370" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1587533303966" />
+    <state width="783" height="277" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1587533645473" />
+    <state width="1398" height="306" key="GridCell.Tab.0.left" timestamp="1587575643479">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583938764176" />
+    <state width="1398" height="306" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587575643479" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587528590464" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1587528735899" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1587529710872" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587533705802" />
     <state width="827" height="244" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1583956041928" />
     <state width="827" height="244" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1583956152772" />
-    <state width="827" height="244" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1583957247308" />
-    <state width="827" height="244" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1583955453549" />
-    <state width="827" height="244" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1583955492689" />
-    <state width="827" height="244" key="GridCell.Tab.0.right" timestamp="1583957247309">
-      <screen x="0" y="23" width="1440" height="834" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1587533093921" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1587533221369" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1587533303965" />
+    <state width="783" height="277" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1587533645473" />
+    <state width="1398" height="306" key="GridCell.Tab.0.right" timestamp="1587575643479">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583938764178" />
+    <state width="1398" height="306" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587575643479" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587528590465" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1587528735900" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1587529710872" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587533705804" />
     <state width="827" height="244" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1583956041929" />
     <state width="827" height="244" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1583956152773" />
-    <state width="827" height="244" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1583957247309" />
-    <state width="827" height="244" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1583955453550" />
-    <state width="827" height="244" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1583955492690" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1587533093922" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1587533221370" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1587533303966" />
+    <state width="783" height="277" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1587533645474" />
     <state x="363" y="88" key="SettingsEditor" timestamp="1583872390758">
       <screen x="0" y="23" width="1440" height="834" />
     </state>
